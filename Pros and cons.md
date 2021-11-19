@@ -34,8 +34,8 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
 
   * All content is grouped in [few main sections](https://support.atlassian.com/jira-software-cloud/resources/)
   * Each setion contain links to the more detailed articles
-  * Artciles are divided by different topics and activites
-  * Content is easy to understand, artcile  
+  * Artciles are divided by different topics and tasks
+  * Tasks are described in a simple way, using numbered list, simple commands, bold and italic.   
   ![5](5.png)
 
 ## Cons
