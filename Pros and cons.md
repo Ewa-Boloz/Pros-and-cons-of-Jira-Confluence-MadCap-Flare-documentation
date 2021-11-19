@@ -6,6 +6,7 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
     - [Quickstart menu](#quickstart-menu)
     - [Easy access to documentation and on-line courses](#easy-access-to-documentation-and-on-line-courses)
   - [Cons](#cons)
+    - [A lot of knowledge](#a-lot-of-knowledge)
 - [MadCap Flare](#madcap-flare)
   - [Pros](#pros-1)
   - [Cons](#cons-1)
@@ -17,7 +18,7 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
 
 * A great point to start, if you are new to the tool.  
 * It opens automatically once you enter the page for the first time and offers a start tour.
-* It is always accessible under the Quick start icon.
+* It is always accessible under the **Quick start** icon.
 
 ### Easy access to documentation and on-line courses
 
@@ -26,6 +27,11 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
 * Below there are links to [online courses](https://university.atlassian.com/student/path/871316), documentation in [online help center](https://support.atlassian.com/jira-software-cloud/resources/) form and [community help](https://community.atlassian.com/?tempId=eyJvaWRjX2NvbnNlbnRfbGFuZ3VhZ2VfdmVyc2lvbiI6IjIuMCIsIm9pZGNfY29uc2VudF9ncmFudGVkX2F0IjoxNjM3MjUxODU1NzE2fQ==) where you can ask questions and discuss with other Atlassian users
 
 ## Cons
+
+### A lot of knowledge
+
+* There are many different sources of knowledge: quick start, on-line courses (atlassian university), help articles, community. It is hard to choose what to read first - probably a new user will read almost nothing and experiment on his own.
+* Atlassian university which contains many useful videos and courses both for jira and confluence users can be open only from jira view.
 
 # MadCap Flare
 
