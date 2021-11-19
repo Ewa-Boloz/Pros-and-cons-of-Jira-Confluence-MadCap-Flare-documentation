@@ -19,6 +19,9 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
     - [Hard to find](#hard-to-find)
 
 # Jira and Confluence
+
+**Jira** and **Confluence** come from one supplier - **Atlassian**, and they are very similar therefore I present them together.
+
 ## Pros
 
 ### Quickstart menu
@@ -50,7 +53,8 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
 ### Too many topics in one artcile
 
 * In some articles you can find a lot of content whithout information on the top what's inside. It needs a lot f scrolling down to find what you're loooking for. 
-* There's no **go back** or **back to the top** button, so you need to scroll again 
+* There's no **go back** or **back to the top** button, so you need to scroll again  
+  ![6](6.png)
 
 ### Bad quality screenshots
 
