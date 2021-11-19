@@ -8,7 +8,7 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
     - [Clear structure and well organized content](#clear-structure-and-well-organized-content)
   - [Cons](#cons)
     - [Too many topics in one artcile](#too-many-topics-in-one-artcile)
-    - [Bad quality screenshots](#bad-quality-screenshots)
+    - [Poor quality screenshots](#poor-quality-screenshots)
     - [No language versions](#no-language-versions)
     - [A lot of knowledge](#a-lot-of-knowledge)
 - [MadCap Flare](#madcap-flare)
@@ -18,6 +18,7 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
     - [Clear structure](#clear-structure)
   - [Cons](#cons-1)
     - [Hard to find](#hard-to-find)
+    - [Poor quality screenshots](#poor-quality-screenshots-1)
 
 # Jira and Confluence
 
@@ -57,7 +58,7 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
 * There's no **go back** or **back to the top** button, so you need to scroll again  
   ![6](6.png)
 
-### Bad quality screenshots
+### Poor quality screenshots
 
 * some of the screenshots are unreadible or too small 
 
@@ -76,12 +77,16 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
 
 ### Easy to find
 
-* Help Section is available from the top ribbon and it is divide by **Topics**, **Tutorials** and **Help Community**.
-* Help resources in PDF version can be viewed directly from program window.
-* There is also in-build **Dynamic Help**  
+* **Help** section is available from the top ribbon and it is divide by **Topics**, **Tutorials** and **Help Community**.
+* Help resources in **PDF** version can be viewed directly from program window.
+* There is also in-build **Dynamic Help** on the right
   ![7](7.png)
 
 ### Easy to navigate
+
+* Navigation tree on the right is good organized and visible all the time.
+* Bigger topics are divided into steps and smaller parts.
+* Each article has **back to top** button.
 
 ### Clear structure
 
@@ -91,6 +96,9 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
 
 * [MadCap webpage](https://www.madcapsoftware.com/products/flare/?utm_source=Google&utm_medium=ad-google-search&utm_campaign=Brand&utm_content=Flare&gclid=CjwKCAiAs92MBhAXEiwAXTi251CJpwDWGA9jKoQngS5ZPtKfTmNJ_yqI1uj7zsStdBEgBt_QrYlC5hoCjaEQAvD_BwE) contains **Support** section on the top, but it contains many sections and it takes a moment to find **Flare** documentation
 
+### Poor quality screenshots
+
+* Some screenshots are poor quality, and the screenshots in the **Dynamic Help** are unreadible
 
 
 
