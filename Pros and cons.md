@@ -48,23 +48,23 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
   * Artciles are divided by different topics and tasks
   * Tasks are described in a simple way, using numbered list, simple commands, bold and italic.   
   ![5](5.png)
-  * Interface is clear and rather minimalistic
+  * Interface is clear and rather minimalistic.
 
 ## Cons
 
 ### Too many topics in one artcile
 
 * In some articles you can find a lot of content whithout information on the top what's inside. It needs a lot f scrolling down to find what you're loooking for. 
-* There's no **go back** or **back to the top** button, so you need to scroll again  
+* There's no **go back** or **back to the top** button, so you need to scroll again.  
   ![6](6.png)
 
 ### Poor quality screenshots
 
-* some of the screenshots are unreadible or too small 
+* some of the screenshots are unreadible or too small.
 
 ### No language versions
 
-* The documentation is not avalibale in other languages than english or it is very hard to find
+* The documentation is not avalibale in other languages than english or it is very hard to find.
 
 ### A lot of knowledge
 
@@ -79,7 +79,7 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
 
 * **Help** section is available from the top ribbon and it is divide by [Topics](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Introduction/Home.htm), [Tutorials](https://www.madcapsoftware.com/videos/flare/) and [Help Community](https://www.madcapsoftware.com/community/).
 * Help resources in **PDF** version can be viewed directly from program window.
-* There is also in-build **Dynamic Help** on the right
+* There is also in-build **Dynamic Help** on the right.
   ![7](7.png)
 
 ### Clear structure and well organized content
@@ -87,7 +87,8 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
 * Navigation tree on the right is good organized and visible all the time.
 * Bigger topics are divided into steps and smaller parts.
 * Each article has **back to top** button.
-* Tasks are described in a simple way, using numbered list, simple commands, bold and italic.  
+* Tasks are described in a simple way, using numbered list, simple commands, bold and italic.
+* Interface is simple and minimalistic.  
   ![8](8.png)
 
 
@@ -99,11 +100,11 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
 
 ### Poor quality screenshots
 
-* Some screenshots are poor quality, and the screenshots in the **Dynamic Help** are unreadible
+* Some screenshots are poor quality, and the screenshots in the **Dynamic Help** are unreadible.
 
 ### No language versions
 
-* The documentation is not avalibale in other languages than english or it is very hard to find
+* The documentation is not avalibale in other languages than english or it is very hard to find.
 
 
 
