@@ -1,70 +1,33 @@
 <!-- Introduction -->
 This page contains pros and cons of Jira, Confluence and MadCap Flare documentation.
 
-<!-- Example for Bold -->
-# types of text
-**This is bold text**   
-~~this is outdated~~
-**this is a change**
-## code text
-```this is the code```
-<!-- Example for Italic  -->
-*This is italic text*
-<!-- Example for Links -->
-# links and images
 
-## links
+# Jira and Confluence
+## Pros
+
+### Quickstart menu
+
+* A great point to start, if you are new to the tool
+* It opens automatically once you enter the page for the first time and offers a start tour
+* It is always accessible under the Quick start icon
+
+
+## Cons
+
+# MadCap Flare
+
+## Pros
+
+## Cons
+
+
 
 This is [Google](http://google.com)
 <!-- Example for Images -->
 ## images
 
 ![las](las.jpg)
-<!-- Example for linking to another file-->
 
-<!-- Example for Headers -->
-# other examples
-to jest zwykly text
-<!-- Just text with equation -->
-> this is quote  
-> this is also quote  
-> and this one  
-> quote
-
-<!-- Example for inline code -->
-``` this is inline code ```
-<!-- A block of code -->
-## code examples
-```
-this is code
-```
-```
-<p>simple text</p>
-```  
-
-``` Javascript
-function myFunction() {
-  document.getElementById("demo").innerHTML = "Paragraph changed.";
-}
-```
-
-<!-- Example for Quote -->
-
-> quote  
-> quote
-
-<!-- Example for Bullet List -->
-
-* hbygvyc
-  * efyrg
-  * jsdvhcjb
-* jecufvub
-
-<!-- Example for Numbered List -->
-
-1. list item  
-2.  list item
-3. list item
 
 <!-- Example for Tables -->
 # table template
