@@ -5,6 +5,7 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
   - [Pros](#pros)
     - [Quickstart menu](#quickstart-menu)
     - [Easy access to documentation and on-line courses](#easy-access-to-documentation-and-on-line-courses)
+    - [Clear structure and well organized content](#clear-structure-and-well-organized-content)
   - [Cons](#cons)
     - [A lot of knowledge](#a-lot-of-knowledge)
 - [MadCap Flare](#madcap-flare)
@@ -28,6 +29,12 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
 * In Jira view you will see a couple of useful articles on the top.
 * Below there are links to [online courses](https://university.atlassian.com/student/path/871316), documentation in [online help center](https://support.atlassian.com/jira-software-cloud/resources/) form and [community help](https://community.atlassian.com/?tempId=eyJvaWRjX2NvbnNlbnRfbGFuZ3VhZ2VfdmVyc2lvbiI6IjIuMCIsIm9pZGNfY29uc2VudF9ncmFudGVkX2F0IjoxNjM3MjUxODU1NzE2fQ==) where you can ask questions and discuss with other Atlassian users.  
   ![2](2.png)
+  
+### Clear structure and well organized content
+
+  * all content is grouped in [few main sections](https://support.atlassian.com/jira-software-cloud/resources/)
+  * each setion contain links to the more detailed articles
+  * artciles are write in simple language
 
 ## Cons
 
