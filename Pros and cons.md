@@ -78,8 +78,8 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
 
 * Help Section is available from the top ribbon and it is divide by **Topics**, **Tutorials** and **Help Community**.
 * Help resources in PDF version can be viewed directly from program window.
-* There is also in-build **Dynamic Help**
-*  
+* There is also in-build **Dynamic Help**  
+  ![7](7.png)
 
 ### Easy to navigate
 
