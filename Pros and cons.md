@@ -10,7 +10,7 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
     - [&#9746; Too many topics in one artcile](#-too-many-topics-in-one-artcile)
     - [&#9746; Bad quality screenshots](#-bad-quality-screenshots)
     - [&#9746; No language versions](#-no-language-versions)
-    - [&#9746; A lot of knowledge](#-a-lot-of-knowledge)
+    - [&#10060; A lot of knowledge](#-a-lot-of-knowledge)
 - [MadCap Flare](#madcap-flare)
   - [Pros](#pros-1)
   - [Cons](#cons-1)
@@ -57,7 +57,7 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
 
 * The documentation is not avalibale in other languages than english or it is very hard to find
 
-### &#9746; A lot of knowledge
+### &#10060; A lot of knowledge
 
 * There are many different sources of knowledge: quick start, on-line courses (atlassian university), help articles, community. It is hard to choose what to read first - probably a new user will read almost nothing and experiment on his own.
 * Atlassian university which contains many useful videos and courses both for Jira and Confluence users can be open only from jira view.
