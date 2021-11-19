@@ -18,8 +18,9 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
 
 * A great point to start, if you are new to the tool.  
 * It opens automatically once you enter the page for the first time and offers a start tour.  
-* It is always accessible under the **Quick start** icon.
- ![4](4.png)
+* It is always accessible under the **Quick start** icon.  
+  
+  ![4](4.png)
 
 ### Easy access to documentation and on-line courses
 
