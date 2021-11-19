@@ -7,6 +7,7 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
     - [Easy access to documentation and on-line courses](#easy-access-to-documentation-and-on-line-courses)
     - [Clear structure and well organized content](#clear-structure-and-well-organized-content)
   - [Cons](#cons)
+    - [Too many topics in one artcile](#too-many-topics-in-one-artcile)
     - [A lot of knowledge](#a-lot-of-knowledge)
 - [MadCap Flare](#madcap-flare)
   - [Pros](#pros-1)
@@ -37,13 +38,19 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
   * Artciles are divided by different topics and tasks
   * Tasks are described in a simple way, using numbered list, simple commands, bold and italic.   
   ![5](5.png)
+  * Interface is clear and rather minimalistic
 
 ## Cons
+
+### Too many topics in one artcile
+
+* In some articles you can find a lot of content whithout information on the top what's inside. It needs a lot f scrolling down to find what you're loooking for. 
+* There's no **go back** or **back to the top** button, so you need to scroll again 
 
 ### A lot of knowledge
 
 * There are many different sources of knowledge: quick start, on-line courses (atlassian university), help articles, community. It is hard to choose what to read first - probably a new user will read almost nothing and experiment on his own.
-* Atlassian university which contains many useful videos and courses both for jira and confluence users can be open only from jira view.
+* Atlassian university which contains many useful videos and courses both for Jira and Confluence users can be open only from jira view.
 
 # MadCap Flare
 
