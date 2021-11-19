@@ -15,10 +15,10 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
   - [Pros](#pros-1)
     - [Easy to find](#easy-to-find)
     - [Clear structure and well organized content](#clear-structure-and-well-organized-content-1)
-    - [Clear structure](#clear-structure)
   - [Cons](#cons-1)
     - [Hard to find](#hard-to-find)
     - [Poor quality screenshots](#poor-quality-screenshots-1)
+    - [No language versions](#no-language-versions-1)
 
 # Jira and Confluence
 
@@ -77,7 +77,7 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
 
 ### Easy to find
 
-* **Help** section is available from the top ribbon and it is divide by **Topics**, **Tutorials** and **Help Community**.
+* **Help** section is available from the top ribbon and it is divide by [Topics](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Introduction/Home.htm), [Tutorials(https://www.madcapsoftware.com/videos/flare/) and [Help Community](https://www.madcapsoftware.com/community/).
 * Help resources in **PDF** version can be viewed directly from program window.
 * There is also in-build **Dynamic Help** on the right
   ![7](7.png)
@@ -90,17 +90,21 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
 * Tasks are described in a simple way, using numbered list, simple commands, bold and italic.  
   ![8](8.png)
 
-### Clear structure
 
 ## Cons
 
 ### Hard to find
 
-* [MadCap webpage](https://www.madcapsoftware.com/products/flare/?utm_source=Google&utm_medium=ad-google-search&utm_campaign=Brand&utm_content=Flare&gclid=CjwKCAiAs92MBhAXEiwAXTi251CJpwDWGA9jKoQngS5ZPtKfTmNJ_yqI1uj7zsStdBEgBt_QrYlC5hoCjaEQAvD_BwE) contains **Support** section on the top, but it contains many sections and it takes a moment to find **Flare** documentation
+* [MadCap webpage](https://www.madcapsoftware.com/products/flare/?utm_source=Google&utm_medium=ad-google-search&utm_campaign=Brand&utm_content=Flare&gclid=CjwKCAiAs92MBhAXEiwAXTi251CJpwDWGA9jKoQngS5ZPtKfTmNJ_yqI1uj7zsStdBEgBt_QrYlC5hoCjaEQAvD_BwE) contains **Support** section on the top, but it contains many sections and it takes a moment to find **Flare** documentation.
 
 ### Poor quality screenshots
 
 * Some screenshots are poor quality, and the screenshots in the **Dynamic Help** are unreadible
+
+### No language versions
+
+* The documentation is not avalibale in other languages than english or it is very hard to find
+
 
 
 
