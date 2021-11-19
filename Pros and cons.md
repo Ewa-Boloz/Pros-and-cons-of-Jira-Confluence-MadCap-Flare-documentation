@@ -95,7 +95,7 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
 
 ### Hard to find
 
-* [MadCap webpage](https://www.madcapsoftware.com/products/flare/?utm_source=Google&utm_medium=ad-google-search&utm_campaign=Brand&utm_content=Flare&gclid=CjwKCAiAs92MBhAXEiwAXTi251CJpwDWGA9jKoQngS5ZPtKfTmNJ_yqI1uj7zsStdBEgBt_QrYlC5hoCjaEQAvD_BwE) contains **Support** section on the top, but it contains many sections and it takes a moment to find **Flare** documentation.
+* [MadCap webpage](https://www.madcapsoftware.com/products/flare/?utm_source=Google&utm_medium=ad-google-search&utm_campaign=Brand&utm_content=Flare&gclid=CjwKCAiAs92MBhAXEiwAXTi251CJpwDWGA9jKoQngS5ZPtKfTmNJ_yqI1uj7zsStdBEgBt_QrYlC5hoCjaEQAvD_BwE) contains **Support** section on the top, but it contains many topics and it takes a moment to find **Flare** documentation.
 
 ### Poor quality screenshots
 
