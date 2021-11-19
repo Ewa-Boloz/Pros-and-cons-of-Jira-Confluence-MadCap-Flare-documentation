@@ -77,7 +77,7 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
 
 ### Easy to find
 
-* **Help** section is available from the top ribbon and it is divide by [Topics](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Introduction/Home.htm), [Tutorials(https://www.madcapsoftware.com/videos/flare/) and [Help Community](https://www.madcapsoftware.com/community/).
+* **Help** section is available from the top ribbon and it is divide by [Topics](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Introduction/Home.htm), [Tutorials](https://www.madcapsoftware.com/videos/flare/) and [Help Community](https://www.madcapsoftware.com/community/).
 * Help resources in **PDF** version can be viewed directly from program window.
 * There is also in-build **Dynamic Help** on the right
   ![7](7.png)
