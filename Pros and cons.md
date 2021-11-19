@@ -18,12 +18,12 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
 
 * A great point to start, if you are new to the tool.  
 * It opens automatically once you enter the page for the first time and offers a start tour.  
-  ![4](4.png)
 * It is always accessible under the **Quick start** icon.
+ ![4](4.png)
 
 ### Easy access to documentation and on-line courses
 
-* Help panel is available under the **question mark** button at the top-right corner.
+* Help panel is available under the **question mark** button at the top-right corner. 
 * **Search bar** is on the top - we can start looking for an answer without going through all the documentation.
 * In Jira view you will see a couple of useful articles on the top.
 * Below there are links to [online courses](https://university.atlassian.com/student/path/871316), documentation in [online help center](https://support.atlassian.com/jira-software-cloud/resources/) form and [community help](https://community.atlassian.com/?tempId=eyJvaWRjX2NvbnNlbnRfbGFuZ3VhZ2VfdmVyc2lvbiI6IjIuMCIsIm9pZGNfY29uc2VudF9ncmFudGVkX2F0IjoxNjM3MjUxODU1NzE2fQ==) where you can ask questions and discuss with other Atlassian users.  
