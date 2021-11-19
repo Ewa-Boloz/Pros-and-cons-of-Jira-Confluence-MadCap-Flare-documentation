@@ -55,7 +55,7 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
 
 ### No language versions
 
-* The documentation is not avalibale in other languages or it is very hard to find
+* The documentation is not avalibale in other languages than english or it is very hard to find
 
 ### A lot of knowledge
 
