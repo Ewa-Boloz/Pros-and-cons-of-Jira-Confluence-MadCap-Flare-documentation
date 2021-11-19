@@ -14,7 +14,7 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
 - [MadCap Flare](#madcap-flare)
   - [Pros](#pros-1)
     - [Easy to find](#easy-to-find)
-    - [Easy to navigate](#easy-to-navigate)
+    - [Clear structure and well organized content](#clear-structure-and-well-organized-content-1)
     - [Clear structure](#clear-structure)
   - [Cons](#cons-1)
     - [Hard to find](#hard-to-find)
@@ -82,11 +82,13 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
 * There is also in-build **Dynamic Help** on the right
   ![7](7.png)
 
-### Easy to navigate
+### Clear structure and well organized content
 
 * Navigation tree on the right is good organized and visible all the time.
 * Bigger topics are divided into steps and smaller parts.
 * Each article has **back to top** button.
+* Tasks are described in a simple way, using numbered list, simple commands, bold and italic.  
+  ![8](8.png)
 
 ### Clear structure
 
