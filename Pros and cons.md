@@ -1,16 +1,5 @@
-<!-- Example for normal text -->
-The very first page created in Markdown.
-<!-- Example for title -->
-
-<!-- Here comes the TOC -->
-
-<!-- Example of paragraph of text -->
-
-Lorem ipsum
-<!-- Example of another paragraph -->
-Another paragraph
-
-Lorum ipsum sit amet
+<!-- Introduction -->
+This page contains pros and cons of Jira, Confluence and MadCap Flare documentation.
 
 <!-- Example for Bold -->
 # types of text
