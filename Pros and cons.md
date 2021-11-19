@@ -13,6 +13,7 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
     - [A lot of knowledge](#a-lot-of-knowledge)
 - [MadCap Flare](#madcap-flare)
   - [Pros](#pros-1)
+    - [Easy to find](#easy-to-find)
     - [Easy to navigate](#easy-to-navigate)
     - [Clear structure](#clear-structure)
   - [Cons](#cons-1)
@@ -73,6 +74,13 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
 
 ## Pros
 
+### Easy to find
+
+* Help Section is available from the top ribbon and it is divide by **Topics**, **Tutorials** and **Help Community**.
+* Help resources in PDF version can be viewed directly from program window.
+* There is also in-build **Dynamic Help**
+*  
+
 ### Easy to navigate
 
 ### Clear structure
@@ -81,20 +89,8 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
 
 ### Hard to find
 
-* Page contain **Support** section on the top, however it contains many sections and it takes a moment to find 
+* [MadCap webpage](https://www.madcapsoftware.com/products/flare/?utm_source=Google&utm_medium=ad-google-search&utm_campaign=Brand&utm_content=Flare&gclid=CjwKCAiAs92MBhAXEiwAXTi251CJpwDWGA9jKoQngS5ZPtKfTmNJ_yqI1uj7zsStdBEgBt_QrYlC5hoCjaEQAvD_BwE) contains **Support** section on the top, but it contains many sections and it takes a moment to find **Flare** documentation
 
-
-
-<!-- Example for Tables -->
-
-
-| table header | table header |
-| ------------ | ------------ |
-| content      | content      |
-| content      | content   ss   |
-
-<!-- Paragraph after table -->
-<!--table of content-->
 
 
 
