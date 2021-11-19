@@ -8,6 +8,8 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
     - [Clear structure and well organized content](#clear-structure-and-well-organized-content)
   - [Cons](#cons)
     - [Too many topics in one artcile](#too-many-topics-in-one-artcile)
+    - [Bad quality screenshots](#bad-quality-screenshots)
+    - [No language versions](#no-language-versions)
     - [A lot of knowledge](#a-lot-of-knowledge)
 - [MadCap Flare](#madcap-flare)
   - [Pros](#pros-1)
@@ -46,6 +48,14 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
 
 * In some articles you can find a lot of content whithout information on the top what's inside. It needs a lot f scrolling down to find what you're loooking for. 
 * There's no **go back** or **back to the top** button, so you need to scroll again 
+
+### Bad quality screenshots
+
+* some of the screenshots are unreadible or too small 
+
+### No language versions
+
+* The documentation is not avalibale in other languages or it is very hard to find
 
 ### A lot of knowledge
 
