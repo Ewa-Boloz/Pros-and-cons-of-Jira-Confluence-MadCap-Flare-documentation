@@ -1,6 +1,14 @@
 <!-- Introduction -->
 This page contains pros and cons of Jira, Confluence and MadCap Flare documentation.
 
+- [Jira and Confluence](#jira-and-confluence)
+  - [Pros](#pros)
+    - [Quickstart menu](#quickstart-menu)
+    - [Easy access to documentation and on-line courses](#easy-access-to-documentation-and-on-line-courses)
+  - [Cons](#cons)
+- [MadCap Flare](#madcap-flare)
+  - [Pros](#pros-1)
+  - [Cons](#cons-1)
 
 # Jira and Confluence
 ## Pros
@@ -27,13 +35,13 @@ This page contains pros and cons of Jira, Confluence and MadCap Flare documentat
 
 This is [Google](http://google.com)
 <!-- Example for Images -->
-## images
+
 
 ![las](las.jpg)
 
 
 <!-- Example for Tables -->
-# table template
+
 
 | table header | table header |
 | ------------ | ------------ |
@@ -43,13 +51,5 @@ This is [Google](http://google.com)
 <!-- Paragraph after table -->
 <!--table of content-->
 
-- [types of text](#types-of-text)
-  - [code text](#code-text)
-- [links and images](#links-and-images)
-  - [links](#links)
-  - [images](#images)
-- [other examples](#other-examples)
-  - [code examples](#code-examples)
-- [table template](#table-template)
 
 
